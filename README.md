@@ -1,7 +1,11 @@
 by the way, here's a few personal information!
+
 my birthday is in november 20th
+
 i wake up very early (7-10 am GMT+3:00)
+
 i also sleep at 12-3 am and I don't sleep sometimes lol.
+
 my roblox and discord username is "excl4im1ng"
 
 ## my projects!
