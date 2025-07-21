@@ -15,3 +15,7 @@ my roblox and discord username is "excl4im1ng"
 - i couldn't find any script that was updated so i made one for myself lol
 - [saber simulator](https://www.roblox.com/games/3823781113/Saber-Simulator)
 - [script](https://raw.githubusercontent.com/ikilledaiden/hax/main/sabersim)
+
+### Flee the facility
+- The IY (infinite yield) is for infinite jump (fake wallhop) and Shiftlock script is for.. mobile shiftlock.
+- [Script](https://raw.githubusercontent.com/itssjustaiden/hax/main/ftf)
