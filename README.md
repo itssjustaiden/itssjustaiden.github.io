@@ -26,4 +26,10 @@ my roblox and discord username is "excl4im1ng"
 ### Forsaken Guest 1337 Auto Block
 - Mobile works. Don't know about pc.
 - Tested on Delta (works)
-- [Script](https://raw.githubusercontent.com/itssjustaiden/hax/refs/heads/main/ForsakenAutoBlock)
+- [Script](https://raw.githubusercontent.com/itssjustaiden/hax/main/ForsakenAutoBlock)
+
+
+### Global TAS (Tool-Assisted Speedrun)
+- PC only, works pretty well.
+- Tested on Volcano (works)
+- [Script](https://raw.githubusercontent.com/itssjustaiden/hax/main/GlobalTAS)
